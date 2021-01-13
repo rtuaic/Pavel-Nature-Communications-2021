@@ -19,3 +19,7 @@ d)	The expected output *.dat files are automatically saved in the same folder wh
 	Each files contains 4 columns separated by commas, namely: time step, autophagy value, α-catenins value, yap/taz value.
 
 Expected run time for the file Script.mw is less than 1 minute.
+
+### ### ### ### ### ### ### ### 
+
+Typical data output are available in the Data_Output.zip file.
