@@ -1,0 +1,35 @@
+### Installation guide
+
+Instructions for installing a Free Trial of Maple 2019 software:
+
+a) Follow the link bellow: 
+https://www.maplesoft.com/products/maple/free-trial/?IC=10317
+
+b) Complete de form and press “Go!” button.
+
+c) Follow the link in the received email from Maplesoft.com
+
+d) Read the "Download and Install Maple" section. Next, download the program and double-click on the file to install Maple. If you run into problems, there is a link with detailed installation instructions in this section.
+
+	Detailed instructions:
+
+	When pressing the link, you will be redirected to a new web page where the available platforms are listed. You can choose between Linux, Macintosh or Windows. The default Windows version (in which the script was written) is for 64-bit operating system. There is also available a 32-bit Windows version of Maple. When pressing the download link for the preferred OS, you will be prompted with a new window asking where you want to save the 1.2 GB executive file (eg. Maple2019.2WindowsX64Installer.exe for 64-bit Windows). Please be aware that the name of the file might be different from the one mentioned above as it depends on the operating system used. 
+
+	To activate Maple, one have to write down the purchase code (e.g. WLEWV8BQJ2CR9LB6) available in the "Activate Maple" section. In this section is also mentioned when the evaluation period will expire, namely 15 days.
+
+	Please select your favourite download folder and press “Save”. Then, go to the folder and double-click on the .exe file (eg. Maple2019.2WindowsX64Installer.exe):
+	
+	1)	Set-up Maple: press “Next”.
+	2)	Licence Agreement: select the “I accept the agreement” option and press “Next”.
+	3)	Installation directory. The default folder is “C:\Program Files\Maple 2019” and press “Next”.
+	4)	Install Desktop Shortcut: select “Yes” and press “Next”.
+	5)	On the next screen: select “Single User Licence” and press “Next”.
+	6)	Check for updates: uncheck all options and press “Next”.
+	7)	Pre-Installation Summary: press Next.
+	8)	The installation process starts and lasts approx. 5 minutes. At the end press “Finish”.
+	9)	Maple Soft Activation: introduce the Purchase Code (e.g. WLEWV8BQJ2CR9LB6) and press “Next”.
+	10)	On the next screen: introduce "First Name", "Last Name" and "Email address" information. Please select “I consent to the collection of information as described above” and press “Next” for a successful installation and activation of Free Trial Maple.
+	11)	Activation successful! - press “OK”.
+
+
+Typical install time on a “normal” desktop computer is: The email with the link for the Free Trial is usually received immediately. The total installation time last less than 10 minutes.
