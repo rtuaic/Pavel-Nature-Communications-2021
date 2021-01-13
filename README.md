@@ -2,7 +2,7 @@ The software used for running the file-script “Script.mw” is Maple. This sof
 
 The script was tested on a 64-bit Windows 10 machine, using the following software version: Maple Free Trial. This Maple 2019 version is available only 15 days. 
 
-The software may be installed (see Maple_Instalation_guide.txt) on a “normal” desktop computer and non-standard hardware are not required.
+The software may be installed (see Maple_Installation_guide.txt) on a “normal” desktop computer and non-standard hardware are not required.
 
 
 ### Demo and instructions for use
